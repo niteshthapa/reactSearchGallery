@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Demo of project
-Demo of this app [https://reactcrudapp.herokuapp.com/](https://reactcrudapp.herokuapp.com/) to view it in the browser. When you submit a valid form check console for data. 
+Demo of this app [https://react-searchgallery.stackblitz.io/](https://react-searchgallery.stackblitz.io/) to view it in the browser. When you submit a valid form check console for data. 
 ## Available Scripts
 
 In the project directory, you can run:
